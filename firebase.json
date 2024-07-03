@@ -1,0 +1,7 @@
+{
+  "hosting": {
+    "site": "hacken-test-e2b66-b53c7",
+    "public": "dist",
+    "ignore": ["**/.*", "**/node_modules/**"]
+  }
+}
